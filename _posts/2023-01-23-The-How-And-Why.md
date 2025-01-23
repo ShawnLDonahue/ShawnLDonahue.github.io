@@ -1,5 +1,5 @@
 ---
-title: "How this site works and why![Now with Dark Mode!]"
+title: "How this site works and why! Now with Dark Mode!"
 date: 2025-01-23 10:00
 categories: [Hello Friend]
 tags: [CI/CD, JEKYLL, GITHUB]
