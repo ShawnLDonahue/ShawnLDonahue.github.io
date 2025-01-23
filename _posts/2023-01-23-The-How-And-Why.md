@@ -1,6 +1,6 @@
 ---
-title: "How this site works and why!"
-date: 2025-01-23 06:52
+title: "How this site works and why![Now with Dark Mode!]"
+date: 2025-01-23 10:00
 categories: [Hello Friend]
 tags: [CI/CD, JEKYLL, GITHUB]
 pin: True # Set to `true` if you want this post pinned to the top.
@@ -63,7 +63,7 @@ Distilled process:
     Start your journey by signing up for a GitHub account (if you don’t already have one). Then, fork or clone the Chirpy Starter repository. Name your repository <your-username>.github.io (e.g., shawnldonahue.github.io) to get that sweet GitHub Pages auto-hosting magic.
 
    * Set Up Fine-Grained Permissions
-    Go to GitHub Developer Settings and create a fine-grained personal access token. Keep it handy—you’ll need it for connecting your tools later. (Pro tip: This is your key to the castle, so guard it well!)
+    Go to GitHub Developer Settings and create a fine-grained personal access token. Keep it handy-you’ll need it for connecting your tools later. (Pro tip: This is your key to the castle, so guard it well!)
 
    * HELLO CI/CD! Install Git
     Install Git on your local machine to manage pushing and pulling code from GitHub.
@@ -73,10 +73,10 @@ Distilled process:
     Get Jekyll running locally by installing Ruby, Bundler, and any other Jekyll dependencies. This is important for testing your blog before you push changes. Bonus: You can also build locally and see what your blog looks like offline! 🚀
 
    * Install VS Code
-    Grab Visual Studio Code, your all-in-one text editor and development powerhouse. Extensions, themes, linting—it’s all here.
+    Grab Visual Studio Code, your all-in-one text editor and development powerhouse. Extensions, themes, linting-it’s all here.
 
    * Connect VS Code to GitHub
-    Set up Git integration in VS Code. Use your fine-grained permissions token to authenticate. Now you can clone, commit, push, pull, and live your best dev life—all from VS Code.
+    Set up Git integration in VS Code. Use your fine-grained permissions token to authenticate. Now you can clone, commit, push, pull, and live your best dev life-all from VS Code.
 
    * Customize Chirpy and Push Changes
     Open your repo in VS Code and start customizing Chirpy! Add posts, tweak settings in _config.yml, and make it your own. When you're happy, commit your changes and push them back to GitHub. 🚢
