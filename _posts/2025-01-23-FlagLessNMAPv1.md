@@ -1,6 +1,6 @@
 ---
 title: "Introducing dsNMAP.py - dead simple NMAP"
-date: 2025-01-23 16:40
+date: 2025-01-23 16:57
 categories: [Coding, Python, Projects, Cybersecurity]
 tags: [Coding, Python, Cybersecurity, Linux]
 pin: false # Set to `true` if you want this post pinned to the top.
@@ -13,6 +13,10 @@ I worked up a simple NMAP tool that prompts the user for IP and what degree of s
 This is just the first iteration. I saved and launched it locally using python3.
 
 In the near future, I will put up a repository on GitHub.
+
+![screencapture of dsNMAP ascii art intro](/assets/img/dsNMAPpy.png)
+
+
 
 ### We're only human. 
 
