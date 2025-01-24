@@ -69,7 +69,15 @@ Thank you for using dsNMAP! Goodbye.
 ## Here is the code. Dead simple. 
 
 ```python
+import os
 
+def run_nmap_scan(target, scan_type):
+    print(f"\nInitiating {scan_type} scan on {target}...\n")
+    os.system(f"nmap {scan_type} {target}")
+
+def main():
+    # ASCII Art for dsNMAP
+    ascii_art = r"""
       _     _   _ __  __          _____             
      | |   | \ | |  \/  |   /\   |  __ \            
    __| |___|  \| | \  / |  /  \  | |__) | __  _   _ 
@@ -80,31 +88,58 @@ Thank you for using dsNMAP! Goodbye.
                                        |_|    |___/ 
 
 
-    
-Welcome to dsNMAP: The Dead Simple Nmap Scanning Tool!
-Please enter the IP address or subnet you want to scan (e.g., 192.168.1.1 or 192.168.1.0/24): 192.168.240.1
+    """
+    print(ascii_art)
+    print("Welcome to dsNMAP: The Dead Simple Nmap Scanning Tool!")
 
-Choose a scan level (the more invasive, the more detailed the scan):
-1. 'The Peek' (Quick & Low-key, non-invasive)
-2. 'The Look Around' (A little deeper, still friendly)
-3. 'The Full Monty' (Warning: Very Invasive & Time Consuming!)
-4. 'The All-Seeing Eye' (Super Invasive, Extremely Detailed - Proceed with Caution!)
+    while True:
+        # Ask for IP or subnet to scan
+        target = input("Please enter the IP address or subnet you want to scan (e.g., 192.168.1.1 or 192.168.1.0/24): ")
 
-Select the scan level (1-4): 1
+        # Ask what level of scan they want performed
+        print("\nChoose a scan level (the more invasive, the more detailed the scan):")
+        print("1. 'The Peek' (Quick & Low-key, non-invasive)")
+        print("2. 'The Look Around' (A little deeper, still friendly)")
+        print("3. 'The Full Monty' (Warning: Very Invasive & Time Consuming!)")
+        print("4. 'The All-Seeing Eye' (Super Invasive, Extremely Detailed - Proceed with Caution!)")
+        
+        scan_choice = input("\nSelect the scan level (1-4): ")
+        
+        # Map the user's choice to scan types
+        if scan_choice == '1':
+            scan_type = "-sn"  # Ping Scan
+            print("\nYou chose 'The Peek': A quick look to see if the host is up.")
+            run_nmap_scan(target, scan_type)
+            
+        elif scan_choice == '2':
+            scan_type = "-sS"  # SYN Scan (stealth scan)
+            print("\nYou chose 'The Look Around': A stealthy SYN scan to discover open ports.")
+            run_nmap_scan(target, scan_type)
+            
+        elif scan_choice == '3':
+            scan_type = "-sS -sV"  # SYN Scan + Version Detection
+            print("\nYou chose 'The Full Monty': A detailed scan to check open ports and service versions.")
+            print("Warning: This may take some time and is more invasive.")
+            run_nmap_scan(target, scan_type)
+            
+        elif scan_choice == '4':
+            scan_type = "-A"  # Aggressive Scan (includes OS detection, version detection, script scanning, and traceroute)
+            print("\nYou chose 'The All-Seeing Eye': A thorough and aggressive scan to get ALL the details.")
+            print("Warning: This is highly invasive and may take a long time to complete.")
+            run_nmap_scan(target, scan_type)
+            
+        else:
+            print("Invalid choice! Please select a valid scan level (1-4).")
+            continue
 
-You chose 'The Peek': A quick look to see if the host is up.
+        # Ask if the user wants to perform another scan
+        another_scan = input("\nWould you like to perform another scan? (y/n): ").strip().lower()
+        if another_scan != 'y':
+            print("\nThank you for using dsNMAP! Goodbye.")
+            break
 
-Initiating -sn scan on 192.168.240.1...
-
-Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-01-23 16:33 MST
-Nmap scan report for firewalla.lan (192.168.240.1)
-Host is up (0.0052s latency).
-MAC Address: 20:6D:31:EF:9C:92 (Firewalla)
-Nmap done: 1 IP address (1 host up) scanned in 0.07 seconds
-
-Would you like to perform another scan? (y/n): n
-
-Thank you for using dsNMAP! Goodbye.
+if __name__ == "__main__":
+    main()
 
 ```
 
