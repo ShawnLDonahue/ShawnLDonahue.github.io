@@ -9,7 +9,6 @@ image:
   alt: Preview image
 ---
 
-![OpenSCAP Title 1](/assets/img/OpenSCAPTitle.png)
 
 ## I was recently asked if I knew anything about these tools. I don't. But I will recklessly pursue surface-level, dangerous knowledge. For science!
 
