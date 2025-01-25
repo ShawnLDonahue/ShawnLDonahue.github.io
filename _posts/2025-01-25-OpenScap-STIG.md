@@ -5,7 +5,7 @@ categories: [Projects]
 tags: [CI/CD, OpenSCAP, Stig Viewer]
 pin: false # Set to `true` if you want this post pinned to the top.
 image:
-  path: /assets/img/OpenSCAPTitle.png
+  path: /assets/img/STIGOpenSCAP.png
   alt: Preview image
 ---
 
@@ -145,7 +145,7 @@ So, it looks like I have a few vulnerabilites worth remediating but so far none 
 
 Really, at the end of the day, this is like most vulnerability remediation - can we patch it? will it break something? can we accept the risk?
 
-Of the four "True" vulnerabilities, only one could I fix for demonstration purpose... which would be to completely remove Docker for the sake of an image and I.. I just don't wanna.. 
+Of the four "True" vulnerabilities, only one could I fix for demonstration purpose, which would be to completely remove Docker for the sake of an image, and I just don't think that's prudent here.  
 
 I am 2.5 hours into this project and I think it's time for some coffee. 
 This was actually a bunch of fun and would recommend.
@@ -156,4 +156,7 @@ Thanks for reading!
 print("Shawn L. Donahue")
 ```
 
+"But wait... you didn't even STIG!"
+
+I know, hence the "Part 1"!
 
