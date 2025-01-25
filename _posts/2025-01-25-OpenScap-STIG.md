@@ -65,24 +65,24 @@ I am not going to bore you with the detailed response but just know this - it si
 
 ### Ok. Lets get reckless. 
 
-Naturally, we begin with... 
+Naturally, we begin with - 
 
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
 
-and a dash of this for clarity..
+and a dash of this for clarity -
 
 ```bash
 linuxadmin@Dual-Boot-Laptop:~$ cat /etc/os-release
 PRETTY_NAME="Ubuntu 24.04.1 LTS"
 ```
-Time to actually do something meaningful here...
+Time to actually do something meaningful here -
 
 ```bash
 sudo apt install openscap-utils -y
 ```
-For clarity
+Again for clarity -
 
 ```bash
 oscap --version
