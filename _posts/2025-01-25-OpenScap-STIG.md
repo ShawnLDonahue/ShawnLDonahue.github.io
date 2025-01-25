@@ -1,8 +1,8 @@
 ---
-title: "Do you even OpenSCAP, SCC, and STIG View? Part 1."
+title: "Do you even OpenSCAP, SCC, and STIG Viewer? Part 1."
 date: 2025-01-25 08:00
 categories: [Projects]
-tags: [CI/CD, OpenSCAP, Stig Viewer]
+tags: [CI/CD, OpenSCAP, STIG Viewer]
 pin: false # Set to `true` if you want this post pinned to the top.
 image:
   path: /assets/img/STIGOpenSCAP.png
@@ -16,7 +16,7 @@ Plus, it's 16 degrees and snowing outside.
 
 Before I get get started it's important to note that I in fact, didn't even know they were tools. 
 
-So, like any good knowledge worker, I set off to learn (and avoid horrors of willfull ignorance.)
+So, like any good knowledge worker, I set off to learn (and avoid the horrors of willful ignorance.)
 
 
 ### Fun note - I am writing this live as I go. I write my articles in VS Code so I can upload them directly to my GitHub repo - which means no autofill and no spell-checking. 
@@ -52,7 +52,7 @@ Overview:
 
 That's fine. This is fine. Everything is fine. 
 
-So, time to get OpenSCAP on linux workstation and see what that looks like but before....
+So, time to get OpenSCAP on linux workstation and see what that looks like but before -
 
 ```bash
 "Dear ChatGPT, what can I expect, or give a brief summary of the process of installing OpenSCAP, running it, the output, and actions I can take or would normally be expected to take in a professional setting."
@@ -109,7 +109,7 @@ Keep moving forward, Shawn, deep breath and keep moving forward.
 
 Actually, this is a PAINFULLY straightforward process. But like so many other PAINFULLY straightforward processes - sometimes you have to forge a path. OpenSCAP guides were not cooperating, so I went with Oval. Thus my frustration. There are no Ubuntu 24.04 guides out there and so trailblazing we go.
 
-After following the above steps and executing the following command, I had success
+After following the above steps and executing the command below, I had success -
 
 ```bash
  sudo oscap oval eval --report report.html com.ubuntu.noble.usn.oval.xml
