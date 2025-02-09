@@ -4,49 +4,48 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-Shawn L. Donahue
-https://www.linkedin.com/in/shawn-l-donahue/
-
-BRIEF
+Shawn L. Donahue <br>
+https://www.linkedin.com/in/shawn-l-donahue/<br>
+<br>
+BRIEF<br>
 Cybersecurity professional with experience as an AWS Cloud Support Engineer, Network Security Engineer,
 Network Operations Center Team Lead, Systems Operations Engineer, and as a Cybersecurity III for the
-State of Colorado.
-
-KEY COMPETENCIES
-Cybersecurity leadership
-Incident response
-Threat and vulnerability
-management
-Cybersecurity reporting and
-presenting
-Security guideline development
-Excellent communication skills
-Cloud infrastructure support
-Cybersecurity training
-Strategic thinking
-Cross-functional collaboration
-
-PROFESSIONAL EXPERIENCE
-Cyber Security III
+State of Colorado.<br>
+<br>
+KEY COMPETENCIES<br>
+Cybersecurity leadership<br>
+Incident response<br>
+Threat and vulnerability<br>
+management<br>
+Cybersecurity reporting and presenting<br>
+Security guideline development<br>
+Excellent communication skills<br>
+Cloud infrastructure support<br>
+Cybersecurity training<br>
+Strategic thinking<br>
+Cross-functional collaboration<br>
+<br>
+PROFESSIONAL EXPERIENCE<br>
+Cyber Security III<br>
 Incident Identification & Response: Spearheaded incident response efforts, leveraging Darktrace NDR tools
 to detect, analyze, and respond to potential threats across networked systems. Implemented structured
-triage, containment, and root cause analysis, elevating the organization’s overall security resilience.
+triage, containment, and root cause analysis, elevating the organization’s overall security resilience.<br>
 Runbooks & SOP Development: Authored and refined incident response runbooks and standard operating
 procedures (SOPs), ensuring clear guidance for rapid response actions. Developed HEAL and Recover
-playbooks to streamline recovery operations following incidents.
+playbooks to streamline recovery operations following incidents.<br>
 Endpoint, Network, and Cloud Forensics: Performed forensic investigations across endpoint, network, and
 cloud environments to identify, analyze, and respond to incidents. Leveraged Splunk and other SIEM tools to
 monitor and analyze logs, detect anomalies, and correlate events for comprehensive threat assessments.
 Documented findings and provided actionable insights to enhance incident response processes. Led
-projects to migrate logging to Splunk servers.
+projects to migrate logging to Splunk servers.<br>
 Tooling & Automation: Designed and implemented scripts and custom tools for automating security tasks,
 such as Cisco firewall integrations and API-based responses, reducing manual workload and response times.
 Initiated development of automated response capabilities that enabled faster detection and remediation
 processes. Integrated STIX/TAXII Federal ISAC threat feeds, enhancing visibility and response capabilities
-against advanced persistent threats.
+against advanced persistent threats.<br>
 Mentorship & Team Support: Served as a knowledge resource and mentor for junior team members,
 providing guidance on incident handling and advanced threat mitigation techniques. Acted as an escalation
-point during complex incidents, ensuring team cohesion and effective resolution.
+point during complex incidents, ensuring team cohesion and effective resolution.<br>
 Vulnerability Management: Utilized Tenable.io and Tenable.sc for proactive vulnerability scanning and
 analysis, generating actionable reports to inform risk mitigation strategies. Conducted thorough assessments
 of new applications to identify and address security weaknesses prior to deployment.
@@ -55,70 +54,69 @@ aligning with NIST SP 800-53 and SP 800-82 standards to ensure the protection of
 compliance with cybersecurity regulations.OSINT and Public Exposure Monitoring: Conducted regular OSINT activities, including Shodan scans and
 external assessments, to identify, report, and mitigate potential vulnerabilities within public-facing systems.
 Proactively analyzed internet-facing assets and reported findings to maintain a secure perimeter against
-external threats.
+external threats.<br>
 Cybersecurity Training & Reporting: Delivered cybersecurity training sessions and regularly briefed
 stakeholders on threat landscape changes and current vulnerabilities, fostering a proactive security culture.
 Provided insights and recommendations based on Darktrace, Tenable, and MITRE frameworks, enabling
-data-driven decision-making.
+data-driven decision-making.<br>
 Vendor Risk Assessments: Conducted thorough risk assessments of new and existing vendors, ensuring
 compliance with Colorado Information Security Policies (CISP). Evaluated vendor cybersecurity practices,
 identified potential risks, and recommended mitigation strategies to align vendors with organizational
-security standards.
-
-Amazon Web Services (AWS)
-Cloud Support Engineer
+security standards.<br>
+<br>
+Amazon Web Services (AWS)<br>
+Cloud Support Engineer<br>
 Advanced Technical Support: Delivered expert technical support to enterprise clients for critical AWS
 services, including Elastic Load Balancing, Auto Scaling, Amazon EC2, Amazon VPC, Amazon CloudWatch,
 Amazon CloudTrail, and AWS CloudFormation. Efficiently managed and resolved complex support requests
-via phone, text, and email, ensuring timely resolution of issues.
+via phone, text, and email, ensuring timely resolution of issues.<br>
 Performance Optimization: Assisted customers in optimizing their AWS infrastructure, leveraging tools and
 services to enhance scalability and performance. Provided actionable insights and recommendations to
-improve system efficiency and reliability.
+improve system efficiency and reliability.<br>
 Customer Relationship Management: Fostered strong relationships with enterprise clients by providing high-
-quality support and guidance, contributing to improved customer satisfaction and retention.
+quality support and guidance, contributing to improved customer satisfaction and retention.<br>
 Performance Recognition: Consistently received high-quality daily reviews for exceptional service and
-support, reflecting a strong commitment to customer satisfaction and technical expertise.
-
-State of Colorado - Judicial Branch
-Network Security Engineer
+support, reflecting a strong commitment to customer satisfaction and technical expertise.<br>
+<br>
+State of Colorado - Judicial Branch<br>
+Network Security Engineer<br>
 Firewall Management: Oversaw all aspects of firewall management, including upgrades, physical and
 software configurations, access control lists (ACLs), rules, VPN tunnels, and user management. Successfully
-deployed High Availability (HA) FMC for the first time, enhancing network security resilience.
+deployed High Availability (HA) FMC for the first time, enhancing network security resilience.<br>
 Security System Implementation: Led the removal of Cisco WSAs to streamline network services, and
 bolstered security by deploying Cisco Identity Services Engine (ISE) and Cisco Umbrella DNS across regional
-sites, enhancing both security and compliance.
+sites, enhancing both security and compliance.<br>
 Incident Response Playbooks: Initiated and developed multiple incident response playbooks, standardizing
 and improving response procedures for cybersecurity incidents. Trained analysts on new systems and
-protocols to enhance team effectiveness.
-
-Spectrum
-Multiple Technical, NOC, and Engineering Roles
-Systems Engineer III, Wi-Fi Core Operations
-Systems Engineer II, Wi-Fi Core Operations
-Team Lead, Enterprise Network Operations Center (NOC)Team Lead
-Network Operations Center (NOC) Technician
-Business Support Technician, Small and Medium Business
-Residential Technical Support III
-
-EDUCATION
-
-Bachelor of Science, Graduated
-Majors: Information Security
-
-Master of Science, Graduated
-Majors: Cybersecurity and Information Assurance
-
-CERTIFICATIONS
-
-ISC2 member, Certified in Cybersecurity
-Currently pursuing CISSP,
-AWS Certified Cloud Practitioner
-CompTIA Project+
-CompTIA Linux+
-Recently Held:
-CompTIA Security+
-CompTIA Network+
-CompTIA A+
-Cisco - CCNA Security
-Cisco - CCNA
-EC-Council Certified Ethical Hacker ( CEH )
+protocols to enhance team effectiveness.<br>
+<br>
+Spectrum<br>
+Multiple Technical, NOC, and Engineering Roles<br>
+Systems Engineer III, Wi-Fi Core Operations<br>
+Systems Engineer II, Wi-Fi Core Operations<br>
+Team Lead, Enterprise Network Operations Center (NOC)Team Lead<br>
+Network Operations Center (NOC) Technician<br>
+Business Support Technician, Small and Medium Business<br>
+Residential Technical Support III<br>
+<br>
+EDUCATION<br>
+<br>
+Bachelor of Science, Graduated<br>
+Majors: Information Security<br>
+<br>
+Master of Science, Graduated<br>
+Majors: Cybersecurity and Information Assurance<br>
+<br>
+CERTIFICATIONS<br>
+ISC2 member, Certified in Cybersecurity<br>
+Currently pursuing CISSP,<br>
+AWS Certified Cloud Practitioner<br>
+CompTIA Project+<br>
+CompTIA Linux+<br>
+Recently Held:<br>
+CompTIA Security+<br>
+CompTIA Network+<br>
+CompTIA A+<br>
+Cisco - CCNA Security<br>
+Cisco - CCNA<br>
+EC-Council Certified Ethical Hacker ( CEH )<br>
