@@ -99,24 +99,24 @@ Network Operations Center (NOC) Technician<br><br>
 Business Support Technician, Small and Medium Business<br><br>
 Residential Technical Support III<br><br>
 <br><br>
-EDUCATION<br><br>
-<br><br>
-Bachelor of Science, Graduated<br><br>
-Majors: Information Security<br><br>
-<br><br>
-Master of Science, Graduated<br><br>
-Majors: Cybersecurity and Information Assurance<br><br>
-<br><br>
-CERTIFICATIONS<br><br>
-ISC2 member, Certified in Cybersecurity<br><br>
-Currently pursuing CISSP,<br><br>
-AWS Certified Cloud Practitioner<br><br>
-CompTIA Project+<br><br>
-CompTIA Linux+<br><br>
-Recently Held:<br><br>
-CompTIA Security+<br><br>
-CompTIA Network+<br><br>
-CompTIA A+<br><br>
-Cisco - CCNA Security<br><br>
-Cisco - CCNA<br><br>
-EC-Council Certified Ethical Hacker ( CEH )<br><br>
+EDUCATION<br>
+<br>
+Bachelor of Science, Graduated<br>
+Majors: Information Security<br>
+<br>
+Master of Science, Graduated<br>
+Majors: Cybersecurity and Information Assurance<br>
+<br>
+CERTIFICATIONS<br>
+ISC2 member, Certified in Cybersecurity<br>
+Currently pursuing CISSP,<br>
+AWS Certified Cloud Practitioner<br>
+CompTIA Project+<br>
+CompTIA Linux+<br>
+Recently Held:<br>
+CompTIA Security+<br>
+CompTIA Network+<br>
+CompTIA A+<br>
+Cisco - CCNA Security<br>
+Cisco - CCNA<br>
+EC-Council Certified Ethical Hacker ( CEH )<br>
