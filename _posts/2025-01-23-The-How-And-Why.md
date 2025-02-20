@@ -3,7 +3,7 @@ title: "How this site works and why! Now with Dark Mode!"
 date: 2025-01-23 10:00
 categories: [Hello Friend]
 tags: [CI/CD, JEKYLL, GITHUB]
-pin: True # Set to `true` if you want this post pinned to the top.
+pin: False # Set to `true` if you want this post pinned to the top.
 ---
 
 # Why host a blog in 2025 and on GitHub...
