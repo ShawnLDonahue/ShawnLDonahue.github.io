@@ -6,4 +6,5 @@ tags: [Hello Friend]
 pin: false # Set to `true` if you want this post pinned to the top.
 ---
 
-Hello friend.
+Hello friend. 
+How else should I have started this process?
