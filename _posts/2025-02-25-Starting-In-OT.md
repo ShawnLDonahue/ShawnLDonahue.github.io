@@ -11,7 +11,7 @@ image:
 
 ## Absolutely nothing made sense.
 ```bash
-....yeah, brace yourself, this is a long one.
+....yeah, brace yourself, this is going to be a long one.
 ```
 
 When I first arrived on scene to my shiny, new job in critical infrastructure - I did not, in fact, know it was commonly identified as "critical infrastructure."
