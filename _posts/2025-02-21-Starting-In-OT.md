@@ -60,7 +60,7 @@ By the time the work day was done, I had a few new buzzwords hanging off my lips
 
 I spent the next couple of weeks studying, well DEVOURING, every piece of information I could find. 
 
-### My passion was fueled by my absolute passion to "right the ship" of my organization's approach to cybersecurity. 
+### My passion was fueled by my absolute determination to "right the ship" of my organization's approach to cybersecurity. 
 
 I started explaining, in every meeting, to my manager why we NEEDED To adopt OT standards. 
 
@@ -85,7 +85,7 @@ I wasn't wrong but my manager pulled me aside a few days later and says, "nah, l
 
 #### Forgive my language, and turn away if you don't want to think less of me - but this is the kinda shit that really fucking pisses me off in Cybersecurity. 
 
-When organizations are structured so that Cyber is at THE BOTTOM then you have no leverage. 
+When organizations are structured so that Cyber is at THE BOTTOM then you have no leverage. It wasn't the fault of anyone I worked with, not really, government agencies just structure themselves differently. 
 
 It's like NIST SP 800-82 didn't exist. It was all just a fever dream. 
 
@@ -135,9 +135,9 @@ They just wanted to offer their services but I dropped "OT" bombs like they were
 
 ## See, services are slightly different between OT and IT. 
 
-I've mentioned before which parts of the CIA triad are more important in OT but you have to treat every part much differently.
+I've mentioned before which parts of the CIA triad are more important in OT but you have to retrain your mind to work differently.
 
-You have to manage your expectations with OT equipment providers. 
+For example, you have to manage your expectations with OT equipment providers. 
 
 It's unlikely they will have the most advanced IAM systems tied into their tiny controller. 
 
