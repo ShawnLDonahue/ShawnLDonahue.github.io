@@ -9,7 +9,7 @@ image:
   alt: Preview image
 ---
 
-## Absolutely nothing made sense.
+### It felt as though absolutely nothing made sense.
 ```bash
 ....yeah, brace yourself, this is going to be a long one.
 ```
