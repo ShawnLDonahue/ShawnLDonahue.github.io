@@ -5,7 +5,7 @@ categories: [Discussion]
 tags: [OT, Operational Technology]
 pin: false # Set to `true` if you want this post pinned to the top.
 image:
-  path: /assets/img/yeah-ot.png
+  path: /assets/img/yeah-ot2.png
   alt: Preview image
 ---
 
