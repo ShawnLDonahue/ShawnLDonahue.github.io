@@ -1,5 +1,5 @@
 ---
-title: "Operational Technology ( OT ): A Masterclass In Changing Security Culture From Within."
+title: "Operational Technology ( OT ): How It Became An Unexpected Masterclass In Changing Security Culture From Within."
 date: 2025-02-21 17:00
 categories: [Discussion]
 tags: [OT, Operational Technology]
