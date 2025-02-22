@@ -1,6 +1,6 @@
 ---
 title: "Operational Technology ( OT ): A Masterclass In Changing Security Culture From Within."
-date: 2025-02-25 17:00
+date: 2025-02-21 17:00
 categories: [Discussion]
 tags: [OT, Operational Technology]
 pin: false # Set to `true` if you want this post pinned to the top.
