@@ -44,7 +44,7 @@ Two roles that focus on technical details - they really don't want to lose those
 
 It's a bizarre reality, perpetuated by misunderstanding. <br>
 
-WHen I took my pre-asssesment for the CISSP, I missed a passing score by 2%. My weakest domain was no surprise to me - application development. 
+When I took my pre-asssesment for the CISSP, I missed a passing score by 2%. My weakest domain was no surprise to me - application development. 
 
 I scored 100% in 5 of the 8 domains but 30% in App Dev. AGAIN, absolutely no surprise.
 
@@ -71,15 +71,22 @@ This, however, made me make the following changes to my routine while preparing 
 3. I must hold, semi-technical (AT THE VERY LEAST), conversations with my engineering teams. 
 4. ChatGPT will hold a conversation, solely for the use of testing, and training on this topic while maintaining scores
 
-That's really it. 
+That's really it.
 
-The CISSP is a 3-6 month gauntlet of surface-level-technical-but-extremely-deep-leadership training which can easily impact and unfortunately atrophy your technical skills. 
+### Final Thoughts
+
+The CISSP is a 3-6 month gauntlet of surface-level-technical-but-extremely-deep-leadership studying which can easily impact and unfortunately atrophy your technical skills (you know, the actual money makers). 
 
 But it is important for most jobs today. 
+Take a look at this site for a better idea... 
 
-It's up to you to decide how you of yourself that you want to commit.
+https://www.cyberseek.org/heatmap.html
 
-Just know, muscle memory does exist and you will rebound with little to no injury.
+It's really up to you to decide how you of yourself that you want to commit
+
+Just know, muscle memory does exist, you will rebound with little to no injury, and stronger than ever.
+
+Also, there will be pain.
 
 ```python
 print("Shawn L. Donahue")
