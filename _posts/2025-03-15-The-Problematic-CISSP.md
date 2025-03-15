@@ -4,6 +4,9 @@ date: 2025-03-15 10:00
 categories: [Discussion]
 tags: [CISSP]
 pin: false # Set to `true` if you want this post pinned to the top.
+image:
+  path: /assets/img/CISSP-PRE.png
+  alt: Preview image
 ---
 
 
