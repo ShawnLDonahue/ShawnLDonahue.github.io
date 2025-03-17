@@ -4,29 +4,20 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-Shawn L. Donahue <br><br>
-https://www.linkedin.com/in/shawn-l-donahue/<br><br>
-<br>
-BRIEF<br><br>
+### Shawn L. Donahue<br>
+https://www.linkedin.com/in/shawn-l-donahue/<br>
+### BRIEF<br>
 Cybersecurity professional with experience as an AWS Cloud Support Engineer, Network Security Engineer,
 Network Operations Center Team Lead, Systems Operations Engineer, and as a Cybersecurity III for the
-State of Colorado.<br><br>
-<br><br>
-KEY COMPETENCIES<br><br>
-Cybersecurity leadership<br><br>
-Incident response<br><br>
-Threat and vulnerability<br><br>
-management<br><br>
-Cybersecurity reporting and presenting<br><br>
-Security guideline development<br><br>
-Excellent communication skills<br><br>
-Cloud infrastructure support<br><br>
-Cybersecurity training<br><br>
-Strategic thinking<br><br>
-Cross-functional collaboration<br><br>
-<br><br>
-PROFESSIONAL EXPERIENCE<br><br>
-Cyber Security III<br><br>
+State of Colorado.<br>
+
+### KEY COMPETENCIES<br>
+Cybersecurity leadership, Incident response, 
+Threat and vulnerability management, Cybersecurity reporting and presenting,
+Security guideline development, Excellent communication skills, Cloud infrastructure support, Cybersecurity training, Strategic thinking, Cross-functional collaboration
+<br>
+### PROFESSIONAL EXPERIENCE<br>
+#### Cyber Security III<br>
 Incident Identification & Response: Spearheaded incident response efforts, leveraging Darktrace NDR tools
 to detect, analyze, and respond to potential threats across networked systems. Implemented structured
 triage, containment, and root cause analysis, elevating the organization’s overall security resilience.<br><br>
@@ -63,9 +54,7 @@ Vendor Risk Assessments: Conducted thorough risk assessments of new and existing
 compliance with Colorado Information Security Policies (CISP). Evaluated vendor cybersecurity practices,
 identified potential risks, and recommended mitigation strategies to align vendors with organizational
 security standards.<br><br>
-<br><br>
-Amazon Web Services (AWS)<br><br>
-Cloud Support Engineer<br><br>
+#### Cloud Support Engineer, Network Monitoring and Scale<br><br>
 Advanced Technical Support: Delivered expert technical support to enterprise clients for critical AWS
 services, including Elastic Load Balancing, Auto Scaling, Amazon EC2, Amazon VPC, Amazon CloudWatch,
 Amazon CloudTrail, and AWS CloudFormation. Efficiently managed and resolved complex support requests
@@ -77,9 +66,7 @@ Customer Relationship Management: Fostered strong relationships with enterprise 
 quality support and guidance, contributing to improved customer satisfaction and retention.<br><br>
 Performance Recognition: Consistently received high-quality daily reviews for exceptional service and
 support, reflecting a strong commitment to customer satisfaction and technical expertise.<br><br>
-<br><br>
-State of Colorado - Judicial Branch<br><br>
-Network Security Engineer<br><br>
+#### Network Security Engineer<br><br>
 Firewall Management: Oversaw all aspects of firewall management, including upgrades, physical and
 software configurations, access control lists (ACLs), rules, VPN tunnels, and user management. Successfully
 deployed High Availability (HA) FMC for the first time, enhancing network security resilience.<br><br>
@@ -89,27 +76,24 @@ sites, enhancing both security and compliance.<br><br>
 Incident Response Playbooks: Initiated and developed multiple incident response playbooks, standardizing
 and improving response procedures for cybersecurity incidents. Trained analysts on new systems and
 protocols to enhance team effectiveness.<br><br>
-<br><br>
-Spectrum<br><br>
-Multiple Technical, NOC, and Engineering Roles<br><br>
+#### Multiple Technical, NOC, and Engineering Roles<br><br>
 Systems Engineer III, Wi-Fi Core Operations<br><br>
 Systems Engineer II, Wi-Fi Core Operations<br><br>
 Team Lead, Enterprise Network Operations Center (NOC)Team Lead<br><br>
 Network Operations Center (NOC) Technician<br><br>
 Business Support Technician, Small and Medium Business<br><br>
 Residential Technical Support III<br><br>
-<br><br>
-EDUCATION<br>
-<br>
+
+### EDUCATION<br>
 Bachelor of Science, Graduated<br>
 Majors: Information Security<br>
 <br>
 Master of Science, Graduated<br>
 Majors: Cybersecurity and Information Assurance<br>
 <br>
-CERTIFICATIONS<br>
+### CERTIFICATIONS<br>
 ISC2 member, Certified in Cybersecurity<br>
-Currently pursuing CISSP,<br>
+Actively enrolled in an ISC2 CISSP program<br>
 AWS Certified Cloud Practitioner<br>
 CompTIA Project+<br>
 CompTIA Linux+<br>
