@@ -1,8 +1,8 @@
 ---
-title: "Posting a security job? Be more specific."
+title: "Posting a security job? Consider being slightly more specific with the title."
 date: 2025-03-17 17:00
 categories: [Prattle]
-tags: [Critical Infrastructure]
+tags: [Career]
 pin: false # Set to `true` if you want this post pinned to the top.
 ---
 
