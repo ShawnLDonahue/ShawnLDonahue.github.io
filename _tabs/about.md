@@ -5,7 +5,7 @@ order: 5
 ---
 
 
-## Lets dig in.
+## Let's dig in.
 
 I’m originally from Fort Myers, Florida. Like many in my generation, the post-9/11 world shaped my sense of purpose early. In 2005, I enlisted in the U.S. Army as an infantryman, driven by a desire to serve and protect.
 
