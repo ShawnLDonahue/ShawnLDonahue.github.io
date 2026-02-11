@@ -76,7 +76,7 @@ order: 1
 <div class="timeline">
 
 <div class="timeline-item">
-  <h3>Cybersecurity Analyst</h3>
+  <h3>Staff Cybersecurity Engineer</h3>
   <p><strong>Overview:</strong> Led incident response, developed playbooks and runbooks, managed vulnerabilities, mentored team members.</p>
   <p><strong>Benefits:</strong> Expertise in risk management, incident mitigation, and leadership.</p>
   <p><strong>Skills & Focus Areas:</strong></p>
@@ -228,7 +228,7 @@ order: 1
 
 ---
 
-## Cybersecurity Analyst
+## Staff Cybersecurity Engineer
 **Overview:**  
 - Led incident response, developed playbooks and runbooks  
 - Managed vulnerabilities and network forensics  
