@@ -4,7 +4,7 @@ icon: fa-solid fa-terminal
 order: 1
 ---
 
-# Career Timeline
+# Professional Experience Timeline
 
 <style>
 /* Dark theme timeline container */
