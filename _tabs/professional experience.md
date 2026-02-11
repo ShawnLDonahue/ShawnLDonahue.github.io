@@ -222,9 +222,7 @@ order: 1
 </div>
 
 
-<!-->
 
-!!! THIS SECTION COMMENTED OUT FOR NOW !!!
 
 # Career Timeline
 
